@@ -2,4 +2,6 @@ LOD data for Wynncraft (for use with [Distant Horizons](https://gitlab.com/jesei
 
 Info on how to use these files is in the [wiki](https://github.com/Wynncraft-Distant-Horizons-Data/lods/wiki/Installation-&-Setting-Up).
 
+Matrix space: https://matrix.to/#/#wynncraft-distant-horizons-data:matrix.org
+
 Credit: The `MEDIUM` LOD files originally come from https://www.youtube.com/watch?v=W4ehXcB3tfE.
